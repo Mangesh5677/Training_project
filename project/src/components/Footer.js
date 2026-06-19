@@ -18,8 +18,8 @@ function Footer() {
 
         <div>
           <h4>Contact</h4>
-          <p>Email: support@myshop.com</p>
-          <p>Phone: +91 9876543210</p>
+          <p>Email: mangeshshinde61499@gmail.com</p>
+          <p>Phone: +91 8308048838</p>
         </div>
 
       </div>
