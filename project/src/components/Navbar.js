@@ -13,9 +13,9 @@ function Navbar() {
       <div>
         <Link to="/">Home</Link>
 
-        <Link to="/cart">
-          Cart ({cart.length})
-        </Link>
+        <Link to="/cart" className="cart-link">
+           🛒 Cart ({cart.length})
+       </Link>
       </div>
     </nav>
   );
